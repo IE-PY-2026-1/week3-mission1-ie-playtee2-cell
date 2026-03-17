@@ -4,7 +4,7 @@
 # 미션 1
 # 1, 사용자 입력
 name2 = input("이름을 입력하시오: ")
-wrtiting2 = int(input("당신의 글쓰기 점수를 입력하시오: "))
+writing2 = int(input("당신의 글쓰기 점수를 입력하시오: "))
 python2 = int(input("당신의 파이썬 점수를 입력하시오: "))
 last_avg2 = float(input("당신의 지난 학기 평균을 입력하시오: "))
 
